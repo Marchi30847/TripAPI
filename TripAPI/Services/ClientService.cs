@@ -1,8 +1,8 @@
-﻿using TripAPI.Entities;
+﻿using TripAPI.Contracts.Requests;
+using TripAPI.Entities;
 using TripAPI.Exceptions;
 using TripAPI.Repositories.Abstractions;
 using TripAPI.Services.Abstractions;
-using Trips.API.Contracts.Requests;
 
 namespace TripAPI.Services;
 

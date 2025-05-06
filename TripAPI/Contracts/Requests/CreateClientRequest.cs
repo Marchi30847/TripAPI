@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Trips.API.Contracts.Requests;
+namespace TripAPI.Contracts.Requests;
 
 public class CreateClientRequest
 {

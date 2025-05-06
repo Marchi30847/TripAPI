@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using TripAPI.Contracts.Requests;
 using TripAPI.Contracts.Responses;
 using TripAPI.Exceptions;
 using TripAPI.Mappers;
 using TripAPI.Services.Abstractions;
-using Trips.API.Contracts.Requests;
 
 namespace TripAPI.Controllers;
 

@@ -1,5 +1,5 @@
-﻿using TripAPI.Entities;
-using Trips.API.Contracts.Requests;
+﻿using TripAPI.Contracts.Requests;
+using TripAPI.Entities;
 
 namespace TripAPI.Services.Abstractions;
 
